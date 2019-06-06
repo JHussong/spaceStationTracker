@@ -1,0 +1,17 @@
+body{
+    background: rgb(207, 206, 207);
+    font-family: 'Raleway', sans-serif;
+}
+
+#issMap {
+    height: 680px;
+    border: 3px solid black;
+} 
+
+h1{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
